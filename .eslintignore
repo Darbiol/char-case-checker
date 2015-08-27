@@ -1,0 +1,12 @@
+**/*.min.js
+bower_components/**
+build/**
+cache/**
+coverage/**
+dist/**
+grunt/**
+instrumented/**
+instrumented-integration/**
+js/libs/**
+node_modules/**
+test/data/**
